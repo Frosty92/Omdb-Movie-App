@@ -1,6 +1,8 @@
-# Getting Started with The Movie App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+# About The Movie App
+   A simple app that searches OMDB for movies. Each search result displays poster, title, year of release and a simple button with label.
+   Updating the search term triggers a debounced callback that queries the API after a 500ms delay.
+   
+   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Instructions:
 
