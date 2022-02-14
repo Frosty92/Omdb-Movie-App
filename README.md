@@ -1,7 +1,15 @@
 # Getting Started with The Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To use the app, please run 'npm install' in the directory where the project is downloaded
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
+## Instructions:
+
+  1. In the terminal window run the following command: git clone `git clone https://github.com/Frosty92/Omdb-Movie-App`
+  2. In the project directory run the following command: `npm install`
+  3. Enjoy searching for films!
+
+
+ 
 ## Todos:
 
 - Add tests
