@@ -8,7 +8,8 @@
 
   1. In the terminal window run the following command: git clone `git clone https://github.com/Frosty92/Omdb-Movie-App`
   2. In the project directory run the following command: `npm install`
-  3. Enjoy searching for films!
+  3. In the project dirextory run the following command: `npm start` to run the app
+  4. Enjoy searching for films!
 
 
  
