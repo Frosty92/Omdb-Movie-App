@@ -1,4 +1,4 @@
-import { IMovie } from "../components/home/SearchResults";
+import { IMovie } from "../SearchResults";
 
 const BASE_URL = "https://www.omdbapi.com/";
 const API_KEY = "cdee4309";
