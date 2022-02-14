@@ -1,7 +1,7 @@
-import React, {useState, useEffect, useRef} from 'react';
+import React, {useState, useEffect} from 'react';
 import './Home.css';
 import useAsync, { Status } from '../../hooks/use_async';
-import {fetchMovies} from '../../utils/search_results.http';
+import {fetchMovies} from './utils/search_results.http';
 import Movie from './Movie';
 import { useDebouncedCallback } from 'use-debounce';
 interface Props {
