@@ -1,0 +1,21 @@
+.movies-list {
+  margin-top:50px;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.img-wrapper {
+  width:300px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.img-wrapper img {
+  max-height:100%;
+}
+
+.err-container {
+  padding-top:15px;
+  color:red;
+}
