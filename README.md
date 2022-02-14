@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-##Todos:
+## Todos:
 
 - Add tests
 - place the API key in .env file
